@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5.4Project/Drag/Content/_Test/WBP_Main.uasset",
+				"E:/UE5.4Project/Drag/Content/_Test/WBP_Icon.uasset",
+				"E:/UE5.4Project/Drag/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/UE5.4Project/Drag/Content/_Test/WBP_DragIcon.uasset",
+				"E:/UE5.4Project/Drag/Content/_Test/BP_Move.uasset",
+				"E:/UE5.4Project/Drag/Content/_Test/NewWidgetBlueprint.uasset"
+			]
+		}
+	]
+}
